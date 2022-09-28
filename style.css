@@ -1,0 +1,11 @@
+a {
+    color: #1e1e8d;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+body{
+    text-align: justify;
+}
